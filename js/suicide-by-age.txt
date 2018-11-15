@@ -1,0 +1,2217 @@
+{
+ "data": [
+  {
+    "Geographic Region": "Total U.S.",
+    "State of Death": "Total U.S.",
+    "Age Group": "18-34",
+    "Veteran Suicides": 893,
+    "Veteran Suicide Rate per 100000": 45,
+    "General Population Suicides": 11997,
+    "General Population Rate per 100000": 16.1
+  },
+  {
+    "Geographic Region": "Total U.S.",
+    "State of Death": "Total U.S.",
+    "Age Group": "35-54",
+    "Veteran Suicides": 1648,
+    "Veteran Suicide Rate per 100000": 33.1,
+    "General Population Suicides": 15467,
+    "General Population Rate per 100000": 18.6
+  },
+  {
+    "Geographic Region": "Total U.S.",
+    "State of Death": "Total U.S.",
+    "Age Group": "55-74",
+    "Veteran Suicides": 2259,
+    "Veteran Suicide Rate per 100000": 25.9,
+    "General Population Suicides": 12162,
+    "General Population Rate per 100000": 17.3
+  },
+  {
+    "Geographic Region": "Total U.S.",
+    "State of Death": "Total U.S.",
+    "Age Group": "75+",
+    "Veteran Suicides": 1274,
+    "Veteran Suicide Rate per 100000": 28.3,
+    "General Population Suicides": 3801,
+    "General Population Rate per 100000": 18.5
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "All",
+    "Age Group": "18-34",
+    "Veteran Suicides": 93,
+    "Veteran Suicide Rate per 100000": 40.3,
+    "General Population Suicides": 1466,
+    "General Population Rate per 100000": 11.3
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "All",
+    "Age Group": "35-54",
+    "Veteran Suicides": 182,
+    "Veteran Suicide Rate per 100000": 30.1,
+    "General Population Suicides": 2157,
+    "General Population Rate per 100000": 14.7
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "All",
+    "Age Group": "55-74",
+    "Veteran Suicides": 260,
+    "Veteran Suicide Rate per 100000": 20.8,
+    "General Population Suicides": 1768,
+    "General Population Rate per 100000": 13.8
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "All",
+    "Age Group": "75+",
+    "Veteran Suicides": 155,
+    "Veteran Suicide Rate per 100000": 19.4,
+    "General Population Suicides": 498,
+    "General Population Rate per 100000": 12.7
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Connecticut",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 83,
+    "General Population Rate per 100000": 10.6
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Connecticut",
+    "Age Group": "35-54",
+    "Veteran Suicides": 10,
+    "Veteran Suicide Rate per 100000": 26.3,
+    "General Population Suicides": 136,
+    "General Population Rate per 100000": 14.4
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Connecticut",
+    "Age Group": "55-74",
+    "Veteran Suicides": 16,
+    "Veteran Suicide Rate per 100000": 19.8,
+    "General Population Suicides": 136,
+    "General Population Rate per 100000": 16.4
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Connecticut",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 34,
+    "General Population Rate per 100000": 13.4
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Maine",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 57,
+    "General Population Rate per 100000": 21.4
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Maine",
+    "Age Group": "35-54",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 70,
+    "General Population Rate per 100000": 20.4
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Maine",
+    "Age Group": "55-74",
+    "Veteran Suicides": 14,
+    "Veteran Suicide Rate per 100000": 25.5,
+    "General Population Suicides": 74,
+    "General Population Rate per 100000": 20.5
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Maine",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 18,
+    "General Population Rate per 100000": 17.2
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Massachusetts",
+    "Age Group": "18-34",
+    "Veteran Suicides": "10-20",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 176,
+    "General Population Rate per 100000": 10.6
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Massachusetts",
+    "Age Group": "35-54",
+    "Veteran Suicides": 25,
+    "Veteran Suicide Rate per 100000": 38.5,
+    "General Population Suicides": 222,
+    "General Population Rate per 100000": 12.4
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Massachusetts",
+    "Age Group": "55-74",
+    "Veteran Suicides": 27,
+    "Veteran Suicide Rate per 100000": 18.4,
+    "General Population Suicides": 178,
+    "General Population Rate per 100000": 11.6
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Massachusetts",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 33,
+    "General Population Rate per 100000": 7.2
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "New Hampshire",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 53,
+    "General Population Rate per 100000": 18.5
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "New Hampshire",
+    "Age Group": "35-54",
+    "Veteran Suicides": 13,
+    "Veteran Suicide Rate per 100000": 54.2,
+    "General Population Suicides": 88,
+    "General Population Rate per 100000": 24.9
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "New Hampshire",
+    "Age Group": "55-74",
+    "Veteran Suicides": 11,
+    "Veteran Suicide Rate per 100000": 22,
+    "General Population Suicides": 74,
+    "General Population Rate per 100000": 21.7
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "New Hampshire",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 22,
+    "General Population Rate per 100000": 24
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "New Jersey",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 157,
+    "General Population Rate per 100000": 8.1
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "New Jersey",
+    "Age Group": "35-54",
+    "Veteran Suicides": "10-20",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 257,
+    "General Population Rate per 100000": 10.5
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "New Jersey",
+    "Age Group": "55-74",
+    "Veteran Suicides": 24,
+    "Veteran Suicide Rate per 100000": 15.4,
+    "General Population Suicides": 200,
+    "General Population Rate per 100000": 10.1
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "New Jersey",
+    "Age Group": "75+",
+    "Veteran Suicides": 19,
+    "Veteran Suicide Rate per 100000": 16.7,
+    "General Population Suicides": 57,
+    "General Population Rate per 100000": 9.6
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "New York",
+    "Age Group": "18-34",
+    "Veteran Suicides": 23,
+    "Veteran Suicide Rate per 100000": 33.3,
+    "General Population Suicides": 408,
+    "General Population Rate per 100000": 8.5
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "New York",
+    "Age Group": "35-54",
+    "Veteran Suicides": 37,
+    "Veteran Suicide Rate per 100000": 21.3,
+    "General Population Suicides": 598,
+    "General Population Rate per 100000": 11.6
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "New York",
+    "Age Group": "55-74",
+    "Veteran Suicides": 58,
+    "Veteran Suicide Rate per 100000": 17,
+    "General Population Suicides": 470,
+    "General Population Rate per 100000": 11
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "New York",
+    "Age Group": "75+",
+    "Veteran Suicides": 35,
+    "Veteran Suicide Rate per 100000": 15.7,
+    "General Population Suicides": 139,
+    "General Population Rate per 100000": 10.6
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Pennsylvania",
+    "Age Group": "18-34",
+    "Veteran Suicides": 34,
+    "Veteran Suicide Rate per 100000": 52.3,
+    "General Population Suicides": 475,
+    "General Population Rate per 100000": 16.6
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Pennsylvania",
+    "Age Group": "35-54",
+    "Veteran Suicides": 72,
+    "Veteran Suicide Rate per 100000": 39.6,
+    "General Population Suicides": 700,
+    "General Population Rate per 100000": 21.8
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Pennsylvania",
+    "Age Group": "55-74",
+    "Veteran Suicides": 90,
+    "Veteran Suicide Rate per 100000": 24.3,
+    "General Population Suicides": 559,
+    "General Population Rate per 100000": 18.3
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Pennsylvania",
+    "Age Group": "75+",
+    "Veteran Suicides": 67,
+    "Veteran Suicide Rate per 100000": 29.4,
+    "General Population Suicides": 175,
+    "General Population Rate per 100000": 17.8
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Rhode Island",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": "20-30",
+    "General Population Rate per 100000": "--"
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Rhode Island",
+    "Age Group": "35-54",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 51,
+    "General Population Rate per 100000": 19
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Rhode Island",
+    "Age Group": "55-74",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 38,
+    "General Population Rate per 100000": 15.5
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Rhode Island",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": "<10",
+    "General Population Rate per 100000": "--"
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Vermont",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 31,
+    "General Population Rate per 100000": 22.4
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Vermont",
+    "Age Group": "35-54",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 35,
+    "General Population Rate per 100000": 22.3
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Vermont",
+    "Age Group": "55-74",
+    "Veteran Suicides": 12,
+    "Veteran Suicide Rate per 100000": 60,
+    "General Population Suicides": 39,
+    "General Population Rate per 100000": 23.5
+
+  },
+  {
+    "Geographic Region": "Northeast",
+    "State of Death": "Vermont",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 11,
+    "General Population Rate per 100000": 24.6
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "All",
+    "Age Group": "18-34",
+    "Veteran Suicides": 179,
+    "Veteran Suicide Rate per 100000": 45.2,
+    "General Population Suicides": 2759,
+    "General Population Rate per 100000": 17.9
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "All",
+    "Age Group": "35-54",
+    "Veteran Suicides": 333,
+    "Veteran Suicide Rate per 100000": 33.4,
+    "General Population Suicides": 3445,
+    "General Population Rate per 100000": 20.1
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "All",
+    "Age Group": "55-74",
+    "Veteran Suicides": 448,
+    "Veteran Suicide Rate per 100000": 23.6,
+    "General Population Suicides": 2473,
+    "General Population Rate per 100000": 16.3
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "All",
+    "Age Group": "75+",
+    "Veteran Suicides": 242,
+    "Veteran Suicide Rate per 100000": 24.2,
+    "General Population Suicides": 745,
+    "General Population Rate per 100000": 16.5
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Illinois",
+    "Age Group": "18-34",
+    "Veteran Suicides": 18,
+    "Veteran Suicide Rate per 100000": 29.5,
+    "General Population Suicides": 350,
+    "General Population Rate per 100000": 11.8
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Illinois",
+    "Age Group": "35-54",
+    "Veteran Suicides": 39,
+    "Veteran Suicide Rate per 100000": 26,
+    "General Population Suicides": 527,
+    "General Population Rate per 100000": 15.6
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Illinois",
+    "Age Group": "55-74",
+    "Veteran Suicides": 61,
+    "Veteran Suicide Rate per 100000": 21.9,
+    "General Population Suicides": 367,
+    "General Population Rate per 100000": 13.4
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Illinois",
+    "Age Group": "75+",
+    "Veteran Suicides": 44,
+    "Veteran Suicide Rate per 100000": 28.2,
+    "General Population Suicides": 125,
+    "General Population Rate per 100000": 15.6
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Indiana",
+    "Age Group": "18-34",
+    "Veteran Suicides": 11,
+    "Veteran Suicide Rate per 100000": 26.8,
+    "General Population Suicides": 286,
+    "General Population Rate per 100000": 18.8
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Indiana",
+    "Age Group": "35-54",
+    "Veteran Suicides": 12,
+    "Veteran Suicide Rate per 100000": 11.5,
+    "General Population Suicides": 380,
+    "General Population Rate per 100000": 22.7
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Indiana",
+    "Age Group": "55-74",
+    "Veteran Suicides": 32,
+    "Veteran Suicide Rate per 100000": 17.1,
+    "General Population Suicides": 263,
+    "General Population Rate per 100000": 18.2
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Indiana",
+    "Age Group": "75+",
+    "Veteran Suicides": 15,
+    "Veteran Suicide Rate per 100000": 17,
+    "General Population Suicides": 72,
+    "General Population Rate per 100000": 17.4
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Iowa",
+    "Age Group": "18-34",
+    "Veteran Suicides": "10-20",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 132,
+    "General Population Rate per 100000": 18.5
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Iowa",
+    "Age Group": "35-54",
+    "Veteran Suicides": 22,
+    "Veteran Suicide Rate per 100000": 47.8,
+    "General Population Suicides": 174,
+    "General Population Rate per 100000": 22.9
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Iowa",
+    "Age Group": "55-74",
+    "Veteran Suicides": 22,
+    "Veteran Suicide Rate per 100000": 24.7,
+    "General Population Suicides": 98,
+    "General Population Rate per 100000": 14
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Iowa",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 30,
+    "General Population Rate per 100000": 12.9
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Kansas",
+    "Age Group": "18-34",
+    "Veteran Suicides": 12,
+    "Veteran Suicide Rate per 100000": 48,
+    "General Population Suicides": 168,
+    "General Population Rate per 100000": 25.2
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Kansas",
+    "Age Group": "35-54",
+    "Veteran Suicides": 23,
+    "Veteran Suicide Rate per 100000": 47.9,
+    "General Population Suicides": 177,
+    "General Population Rate per 100000": 25.3
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Kansas",
+    "Age Group": "55-74",
+    "Veteran Suicides": 15,
+    "Veteran Suicide Rate per 100000": 17.9,
+    "General Population Suicides": 111,
+    "General Population Rate per 100000": 17.9
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Kansas",
+    "Age Group": "75+",
+    "Veteran Suicides": 10,
+    "Veteran Suicide Rate per 100000": 24.4,
+    "General Population Suicides": 40,
+    "General Population Rate per 100000": 21
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Michigan",
+    "Age Group": "18-34",
+    "Veteran Suicides": 20,
+    "Veteran Suicide Rate per 100000": 44.4,
+    "General Population Suicides": 361,
+    "General Population Rate per 100000": 16.2
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Michigan",
+    "Age Group": "35-54",
+    "Veteran Suicides": 46,
+    "Veteran Suicide Rate per 100000": 33.3,
+    "General Population Suicides": 468,
+    "General Population Rate per 100000": 18.7
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Michigan",
+    "Age Group": "55-74",
+    "Veteran Suicides": 65,
+    "Veteran Suicide Rate per 100000": 23,
+    "General Population Suicides": 369,
+    "General Population Rate per 100000": 15.8
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Michigan",
+    "Age Group": "75+",
+    "Veteran Suicides": 28,
+    "Veteran Suicide Rate per 100000": 19.4,
+    "General Population Suicides": 109,
+    "General Population Rate per 100000": 16.3
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Minnesota",
+    "Age Group": "18-34",
+    "Veteran Suicides": 14,
+    "Veteran Suicide Rate per 100000": 46.7,
+    "General Population Suicides": 214,
+    "General Population Rate per 100000": 17.1
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Minnesota",
+    "Age Group": "35-54",
+    "Veteran Suicides": 31,
+    "Veteran Suicide Rate per 100000": 45.6,
+    "General Population Suicides": 259,
+    "General Population Rate per 100000": 18.4
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Minnesota",
+    "Age Group": "55-74",
+    "Veteran Suicides": 34,
+    "Veteran Suicide Rate per 100000": 22.2,
+    "General Population Suicides": 200,
+    "General Population Rate per 100000": 16.5
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Minnesota",
+    "Age Group": "75+",
+    "Veteran Suicides": 16,
+    "Veteran Suicide Rate per 100000": 18.6,
+    "General Population Suicides": 39,
+    "General Population Rate per 100000": 10.9
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Missouri",
+    "Age Group": "18-34",
+    "Veteran Suicides": 29,
+    "Veteran Suicide Rate per 100000": 69,
+    "General Population Suicides": 345,
+    "General Population Rate per 100000": 25.3
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Missouri",
+    "Age Group": "35-54",
+    "Veteran Suicides": 40,
+    "Veteran Suicide Rate per 100000": 37.7,
+    "General Population Suicides": 399,
+    "General Population Rate per 100000": 26.1
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Missouri",
+    "Age Group": "55-74",
+    "Veteran Suicides": 55,
+    "Veteran Suicide Rate per 100000": 27.2,
+    "General Population Suicides": 264,
+    "General Population Rate per 100000": 19.2
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Missouri",
+    "Age Group": "75+",
+    "Veteran Suicides": 30,
+    "Veteran Suicide Rate per 100000": 30,
+    "General Population Suicides": 87,
+    "General Population Rate per 100000": 20.9
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Nebraska",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 87,
+    "General Population Rate per 100000": 19.8
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Nebraska",
+    "Age Group": "35-54",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 79,
+    "General Population Rate per 100000": 17.2
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Nebraska",
+    "Age Group": "55-74",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 49,
+    "General Population Rate per 100000": 12.3
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Nebraska",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 17,
+    "General Population Rate per 100000": 13.4
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "North Dakota",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 51,
+    "General Population Rate per 100000": 25.6
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "North Dakota",
+    "Age Group": "35-54",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 52,
+    "General Population Rate per 100000": 30.2
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "North Dakota",
+    "Age Group": "55-74",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 21,
+    "General Population Rate per 100000": 13.6
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "North Dakota",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 10,
+    "General Population Rate per 100000": 19.6
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Ohio",
+    "Age Group": "18-34",
+    "Veteran Suicides": 30,
+    "Veteran Suicide Rate per 100000": 44.8,
+    "General Population Suicides": 466,
+    "General Population Rate per 100000": 18.1
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Ohio",
+    "Age Group": "35-54",
+    "Veteran Suicides": 70,
+    "Veteran Suicide Rate per 100000": 36.5,
+    "General Population Suicides": 556,
+    "General Population Rate per 100000": 19
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Ohio",
+    "Age Group": "55-74",
+    "Veteran Suicides": 98,
+    "Veteran Suicide Rate per 100000": 27.5,
+    "General Population Suicides": 487,
+    "General Population Rate per 100000": 18.1
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Ohio",
+    "Age Group": "75+",
+    "Veteran Suicides": 47,
+    "Veteran Suicide Rate per 100000": 25.8,
+    "General Population Suicides": 146,
+    "General Population Rate per 100000": 18.2
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "South Dakota",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 57,
+    "General Population Rate per 100000": 29.1
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "South Dakota",
+    "Age Group": "35-54",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 62,
+    "General Population Rate per 100000": 31
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "South Dakota",
+    "Age Group": "55-74",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 27,
+    "General Population Rate per 100000": 14
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "South Dakota",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 10,
+    "General Population Rate per 100000": 16.6
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Wisconsin",
+    "Age Group": "18-34",
+    "Veteran Suicides": 23,
+    "Veteran Suicide Rate per 100000": 69.7,
+    "General Population Suicides": 242,
+    "General Population Rate per 100000": 18.8
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Wisconsin",
+    "Age Group": "35-54",
+    "Veteran Suicides": 33,
+    "Veteran Suicide Rate per 100000": 40.7,
+    "General Population Suicides": 312,
+    "General Population Rate per 100000": 21.3
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Wisconsin",
+    "Age Group": "55-74",
+    "Veteran Suicides": 50,
+    "Veteran Suicide Rate per 100000": 30.1,
+    "General Population Suicides": 217,
+    "General Population Rate per 100000": 16.2
+
+  },
+  {
+    "Geographic Region": "Midwest",
+    "State of Death": "Wisconsin",
+    "Age Group": "75+",
+    "Veteran Suicides": 26,
+    "Veteran Suicide Rate per 100000": 27.7,
+    "General Population Suicides": 60,
+    "General Population Rate per 100000": 15.1
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Alabama",
+    "Age Group": "18-34",
+    "Veteran Suicides": 19,
+    "Veteran Suicide Rate per 100000": 52.8,
+    "General Population Suicides": 209,
+    "General Population Rate per 100000": 19.3
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Alabama",
+    "Age Group": "35-54",
+    "Veteran Suicides": 36,
+    "Veteran Suicide Rate per 100000": 36.4,
+    "General Population Suicides": 275,
+    "General Population Rate per 100000": 22.2
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Alabama",
+    "Age Group": "55-74",
+    "Veteran Suicides": 50,
+    "Veteran Suicide Rate per 100000": 29.9,
+    "General Population Suicides": 215,
+    "General Population Rate per 100000": 19.4
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Alabama",
+    "Age Group": "75+",
+    "Veteran Suicides": 23,
+    "Veteran Suicide Rate per 100000": 31.9,
+    "General Population Suicides": 70,
+    "General Population Rate per 100000": 22
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "All",
+    "Age Group": "18-34",
+    "Veteran Suicides": 397,
+    "Veteran Suicide Rate per 100000": 44.5,
+    "General Population Suicides": 4711,
+    "General Population Rate per 100000": 16.9
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "All",
+    "Age Group": "35-54",
+    "Veteran Suicides": 715,
+    "Veteran Suicide Rate per 100000": 31,
+    "General Population Suicides": 6011,
+    "General Population Rate per 100000": 19
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "All",
+    "Age Group": "55-74",
+    "Veteran Suicides": 956,
+    "Veteran Suicide Rate per 100000": 26.3,
+    "General Population Suicides": 4766,
+    "General Population Rate per 100000": 18.1
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "All",
+    "Age Group": "75+",
+    "Veteran Suicides": 540,
+    "Veteran Suicide Rate per 100000": 32,
+    "General Population Suicides": 1523,
+    "General Population Rate per 100000": 20
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Arkansas",
+    "Age Group": "18-34",
+    "Veteran Suicides": 12,
+    "Veteran Suicide Rate per 100000": 54.5,
+    "General Population Suicides": 147,
+    "General Population Rate per 100000": 21.9
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Arkansas",
+    "Age Group": "35-54",
+    "Veteran Suicides": 17,
+    "Veteran Suicide Rate per 100000": 30.9,
+    "General Population Suicides": 176,
+    "General Population Rate per 100000": 23.7
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Arkansas",
+    "Age Group": "55-74",
+    "Veteran Suicides": 33,
+    "Veteran Suicide Rate per 100000": 33,
+    "General Population Suicides": 159,
+    "General Population Rate per 100000": 24
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Arkansas",
+    "Age Group": "75+",
+    "Veteran Suicides": 17,
+    "Veteran Suicide Rate per 100000": 36.2,
+    "General Population Suicides": 52,
+    "General Population Rate per 100000": 25.8
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Delaware",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 28,
+    "General Population Rate per 100000": 13.2
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Delaware",
+    "Age Group": "35-54",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 37,
+    "General Population Rate per 100000": 15.7
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Delaware",
+    "Age Group": "55-74",
+    "Veteran Suicides": 10,
+    "Veteran Suicide Rate per 100000": 29.4,
+    "General Population Suicides": 40,
+    "General Population Rate per 100000": 17.3
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Delaware",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 12,
+    "General Population Rate per 100000": 18.1
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "District Of Columbia",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 18,
+    "General Population Rate per 100000": 7.7
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "District Of Columbia",
+    "Age Group": "35-54",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 12,
+    "General Population Rate per 100000": 6.8
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "District Of Columbia",
+    "Age Group": "55-74",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": "10-20",
+    "General Population Rate per 100000": "--"
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "District Of Columbia",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": "<10",
+    "General Population Rate per 100000": "--"
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Florida",
+    "Age Group": "18-34",
+    "Veteran Suicides": 52,
+    "Veteran Suicide Rate per 100000": 43,
+    "General Population Suicides": 637,
+    "General Population Rate per 100000": 14.5
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Florida",
+    "Age Group": "35-54",
+    "Veteran Suicides": 124,
+    "Veteran Suicide Rate per 100000": 35.4,
+    "General Population Suicides": 1035,
+    "General Population Rate per 100000": 19.9
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Florida",
+    "Age Group": "55-74",
+    "Veteran Suicides": 204,
+    "Veteran Suicide Rate per 100000": 30.5,
+    "General Population Suicides": 1006,
+    "General Population Rate per 100000": 20.1
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Florida",
+    "Age Group": "75+",
+    "Veteran Suicides": 150,
+    "Veteran Suicide Rate per 100000": 35.7,
+    "General Population Suicides": 396,
+    "General Population Rate per 100000": 21.8
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Georgia",
+    "Age Group": "18-34",
+    "Veteran Suicides": 40,
+    "Veteran Suicide Rate per 100000": 51.9,
+    "General Population Suicides": 409,
+    "General Population Rate per 100000": 17.2
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Georgia",
+    "Age Group": "35-54",
+    "Veteran Suicides": 57,
+    "Veteran Suicide Rate per 100000": 27.3,
+    "General Population Suicides": 487,
+    "General Population Rate per 100000": 17.5
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Georgia",
+    "Age Group": "55-74",
+    "Veteran Suicides": 70,
+    "Veteran Suicide Rate per 100000": 23,
+    "General Population Suicides": 369,
+    "General Population Rate per 100000": 17.7
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Georgia",
+    "Age Group": "75+",
+    "Veteran Suicides": 34,
+    "Veteran Suicide Rate per 100000": 31.5,
+    "General Population Suicides": 87,
+    "General Population Rate per 100000": 17
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Kentucky",
+    "Age Group": "18-34",
+    "Veteran Suicides": 10,
+    "Veteran Suicide Rate per 100000": 34.5,
+    "General Population Suicides": 198,
+    "General Population Rate per 100000": 20.1
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Kentucky",
+    "Age Group": "35-54",
+    "Veteran Suicides": 31,
+    "Veteran Suicide Rate per 100000": 40.3,
+    "General Population Suicides": 282,
+    "General Population Rate per 100000": 24.5
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Kentucky",
+    "Age Group": "55-74",
+    "Veteran Suicides": 38,
+    "Veteran Suicide Rate per 100000": 28.6,
+    "General Population Suicides": 177,
+    "General Population Rate per 100000": 17.7
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Kentucky",
+    "Age Group": "75+",
+    "Veteran Suicides": 29,
+    "Veteran Suicide Rate per 100000": 48.3,
+    "General Population Suicides": 71,
+    "General Population Rate per 100000": 25.7
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Louisiana",
+    "Age Group": "18-34",
+    "Veteran Suicides": 16,
+    "Veteran Suicide Rate per 100000": 45.7,
+    "General Population Suicides": 211,
+    "General Population Rate per 100000": 19
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Louisiana",
+    "Age Group": "35-54",
+    "Veteran Suicides": 20,
+    "Veteran Suicide Rate per 100000": 24.7,
+    "General Population Suicides": 223,
+    "General Population Rate per 100000": 19.1
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Louisiana",
+    "Age Group": "55-74",
+    "Veteran Suicides": 21,
+    "Veteran Suicide Rate per 100000": 17.8,
+    "General Population Suicides": 180,
+    "General Population Rate per 100000": 18
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Louisiana",
+    "Age Group": "75+",
+    "Veteran Suicides": 18,
+    "Veteran Suicide Rate per 100000": 34,
+    "General Population Suicides": 42,
+    "General Population Rate per 100000": 15.5
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Maryland",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 149,
+    "General Population Rate per 100000": 10.9
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Maryland",
+    "Age Group": "35-54",
+    "Veteran Suicides": 19,
+    "Veteran Suicide Rate per 100000": 16.4,
+    "General Population Suicides": 207,
+    "General Population Rate per 100000": 12.9
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Maryland",
+    "Age Group": "55-74",
+    "Veteran Suicides": 23,
+    "Veteran Suicide Rate per 100000": 13.4,
+    "General Population Suicides": 158,
+    "General Population Rate per 100000": 12
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Maryland",
+    "Age Group": "75+",
+    "Veteran Suicides": "10-20",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 54,
+    "General Population Rate per 100000": 15.1
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Mississippi",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 117,
+    "General Population Rate per 100000": 17.2
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Mississippi",
+    "Age Group": "35-54",
+    "Veteran Suicides": 13,
+    "Veteran Suicide Rate per 100000": 25,
+    "General Population Suicides": 129,
+    "General Population Rate per 100000": 17.3
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Mississippi",
+    "Age Group": "55-74",
+    "Veteran Suicides": 17,
+    "Veteran Suicide Rate per 100000": 21,
+    "General Population Suicides": 100,
+    "General Population Rate per 100000": 15.4
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Mississippi",
+    "Age Group": "75+",
+    "Veteran Suicides": "10-20",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 27,
+    "General Population Rate per 100000": 15
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "North Carolina",
+    "Age Group": "18-34",
+    "Veteran Suicides": 23,
+    "Veteran Suicide Rate per 100000": 26.7,
+    "General Population Suicides": 334,
+    "General Population Rate per 100000": 15
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "North Carolina",
+    "Age Group": "35-54",
+    "Veteran Suicides": 56,
+    "Veteran Suicide Rate per 100000": 28,
+    "General Population Suicides": 488,
+    "General Population Rate per 100000": 18.3
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "North Carolina",
+    "Age Group": "55-74",
+    "Veteran Suicides": 71,
+    "Veteran Suicide Rate per 100000": 22.8,
+    "General Population Suicides": 393,
+    "General Population Rate per 100000": 17.5
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "North Carolina",
+    "Age Group": "75+",
+    "Veteran Suicides": 34,
+    "Veteran Suicide Rate per 100000": 25.6,
+    "General Population Suicides": 112,
+    "General Population Rate per 100000": 18
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Oklahoma",
+    "Age Group": "18-34",
+    "Veteran Suicides": 16,
+    "Veteran Suicide Rate per 100000": 45.7,
+    "General Population Suicides": 257,
+    "General Population Rate per 100000": 28.1
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Oklahoma",
+    "Age Group": "35-54",
+    "Veteran Suicides": 31,
+    "Veteran Suicide Rate per 100000": 39.7,
+    "General Population Suicides": 283,
+    "General Population Rate per 100000": 29.6
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Oklahoma",
+    "Age Group": "55-74",
+    "Veteran Suicides": 35,
+    "Veteran Suicide Rate per 100000": 26.3,
+    "General Population Suicides": 190,
+    "General Population Rate per 100000": 22.8
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Oklahoma",
+    "Age Group": "75+",
+    "Veteran Suicides": 28,
+    "Veteran Suicide Rate per 100000": 46.7,
+    "General Population Suicides": 64,
+    "General Population Rate per 100000": 26.1
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "South Carolina",
+    "Age Group": "18-34",
+    "Veteran Suicides": 18,
+    "Veteran Suicide Rate per 100000": 41.9,
+    "General Population Suicides": 208,
+    "General Population Rate per 100000": 19
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "South Carolina",
+    "Age Group": "35-54",
+    "Veteran Suicides": 38,
+    "Veteran Suicide Rate per 100000": 36.5,
+    "General Population Suicides": 279,
+    "General Population Rate per 100000": 22.4
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "South Carolina",
+    "Age Group": "55-74",
+    "Veteran Suicides": 42,
+    "Veteran Suicide Rate per 100000": 23.2,
+    "General Population Suicides": 246,
+    "General Population Rate per 100000": 21
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "South Carolina",
+    "Age Group": "75+",
+    "Veteran Suicides": 21,
+    "Veteran Suicide Rate per 100000": 27.3,
+    "General Population Suicides": 59,
+    "General Population Rate per 100000": 18.7
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Tennessee",
+    "Age Group": "18-34",
+    "Veteran Suicides": 26,
+    "Veteran Suicide Rate per 100000": 56.5,
+    "General Population Suicides": 277,
+    "General Population Rate per 100000": 18.5
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Tennessee",
+    "Age Group": "35-54",
+    "Veteran Suicides": 38,
+    "Veteran Suicide Rate per 100000": 31.4,
+    "General Population Suicides": 410,
+    "General Population Rate per 100000": 23.8
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Tennessee",
+    "Age Group": "55-74",
+    "Veteran Suicides": 66,
+    "Veteran Suicide Rate per 100000": 30.7,
+    "General Population Suicides": 289,
+    "General Population Rate per 100000": 19.4
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Tennessee",
+    "Age Group": "75+",
+    "Veteran Suicides": 26,
+    "Veteran Suicide Rate per 100000": 28.3,
+    "General Population Suicides": 94,
+    "General Population Rate per 100000": 22.5
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Texas",
+    "Age Group": "18-34",
+    "Veteran Suicides": 109,
+    "Veteran Suicide Rate per 100000": 53.4,
+    "General Population Suicides": 1089,
+    "General Population Rate per 100000": 16
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Texas",
+    "Age Group": "35-54",
+    "Veteran Suicides": 161,
+    "Veteran Suicide Rate per 100000": 34.5,
+    "General Population Suicides": 1194,
+    "General Population Rate per 100000": 16.5
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Texas",
+    "Age Group": "55-74",
+    "Veteran Suicides": 169,
+    "Veteran Suicide Rate per 100000": 26.2,
+    "General Population Suicides": 805,
+    "General Population Rate per 100000": 15.7
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Texas",
+    "Age Group": "75+",
+    "Veteran Suicides": 90,
+    "Veteran Suicide Rate per 100000": 32.3,
+    "General Population Suicides": 251,
+    "General Population Rate per 100000": 18.7
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Virginia",
+    "Age Group": "18-34",
+    "Veteran Suicides": 31,
+    "Veteran Suicide Rate per 100000": 38.8,
+    "General Population Suicides": 334,
+    "General Population Rate per 100000": 17.6
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Virginia",
+    "Age Group": "35-54",
+    "Veteran Suicides": 55,
+    "Veteran Suicide Rate per 100000": 23.4,
+    "General Population Suicides": 359,
+    "General Population Rate per 100000": 16.1
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Virginia",
+    "Age Group": "55-74",
+    "Veteran Suicides": 81,
+    "Veteran Suicide Rate per 100000": 27.1,
+    "General Population Suicides": 319,
+    "General Population Rate per 100000": 17.5
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "Virginia",
+    "Age Group": "75+",
+    "Veteran Suicides": 29,
+    "Veteran Suicide Rate per 100000": 25,
+    "General Population Suicides": 110,
+    "General Population Rate per 100000": 22.4
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "West Virginia",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 89,
+    "General Population Rate per 100000": 23.5
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "West Virginia",
+    "Age Group": "35-54",
+    "Veteran Suicides": 14,
+    "Veteran Suicide Rate per 100000": 38.9,
+    "General Population Suicides": 135,
+    "General Population Rate per 100000": 29
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "West Virginia",
+    "Age Group": "55-74",
+    "Veteran Suicides": 26,
+    "Veteran Suicide Rate per 100000": 41.3,
+    "General Population Suicides": 110,
+    "General Population Rate per 100000": 23.4
+
+  },
+  {
+    "Geographic Region": "South",
+    "State of Death": "West Virginia",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 22,
+    "General Population Rate per 100000": 15.7
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Alaska",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 90,
+    "General Population Rate per 100000": 48.9
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Alaska",
+    "Age Group": "35-54",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 57,
+    "General Population Rate per 100000": 31.2
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Alaska",
+    "Age Group": "55-74",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": "20-30",
+    "General Population Rate per 100000": "--"
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Alaska",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": "<10",
+    "General Population Rate per 100000": "--"
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "All",
+    "Age Group": "18-34",
+    "Veteran Suicides": 224,
+    "Veteran Suicide Rate per 100000": 47.9,
+    "General Population Suicides": 3061,
+    "General Population Rate per 100000": 16.6
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "All",
+    "Age Group": "35-54",
+    "Veteran Suicides": 418,
+    "Veteran Suicide Rate per 100000": 38.8,
+    "General Population Suicides": 3854,
+    "General Population Rate per 100000": 19.5
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "All",
+    "Age Group": "55-74",
+    "Veteran Suicides": 595,
+    "Veteran Suicide Rate per 100000": 30.6,
+    "General Population Suicides": 3155,
+    "General Population Rate per 100000": 19.9
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "All",
+    "Age Group": "75+",
+    "Veteran Suicides": 337,
+    "Veteran Suicide Rate per 100000": 33.4,
+    "General Population Suicides": 1035,
+    "General Population Rate per 100000": 23
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Arizona",
+    "Age Group": "18-34",
+    "Veteran Suicides": 31,
+    "Veteran Suicide Rate per 100000": 68.9,
+    "General Population Suicides": 333,
+    "General Population Rate per 100000": 20.9
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Arizona",
+    "Age Group": "35-54",
+    "Veteran Suicides": 49,
+    "Veteran Suicide Rate per 100000": 41.9,
+    "General Population Suicides": 396,
+    "General Population Rate per 100000": 23.4
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Arizona",
+    "Age Group": "55-74",
+    "Veteran Suicides": 89,
+    "Veteran Suicide Rate per 100000": 39.9,
+    "General Population Suicides": 373,
+    "General Population Rate per 100000": 24.6
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Arizona",
+    "Age Group": "75+",
+    "Veteran Suicides": 57,
+    "Veteran Suicide Rate per 100000": 43.8,
+    "General Population Suicides": 134,
+    "General Population Rate per 100000": 27.6
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "California",
+    "Age Group": "18-34",
+    "Veteran Suicides": 71,
+    "Veteran Suicide Rate per 100000": 38.2,
+    "General Population Suicides": 1075,
+    "General Population Rate per 100000": 11.1
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "California",
+    "Age Group": "35-54",
+    "Veteran Suicides": 128,
+    "Veteran Suicide Rate per 100000": 32.8,
+    "General Population Suicides": 1414,
+    "General Population Rate per 100000": 13.7
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "California",
+    "Age Group": "55-74",
+    "Veteran Suicides": 162,
+    "Veteran Suicide Rate per 100000": 22.1,
+    "General Population Suicides": 1231,
+    "General Population Rate per 100000": 15.8
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "California",
+    "Age Group": "75+",
+    "Veteran Suicides": 129,
+    "Veteran Suicide Rate per 100000": 30.3,
+    "General Population Suicides": 447,
+    "General Population Rate per 100000": 19.8
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Colorado",
+    "Age Group": "18-34",
+    "Veteran Suicides": 31,
+    "Veteran Suicide Rate per 100000": 66,
+    "General Population Suicides": 344,
+    "General Population Rate per 100000": 25.6
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Colorado",
+    "Age Group": "35-54",
+    "Veteran Suicides": 54,
+    "Veteran Suicide Rate per 100000": 47.4,
+    "General Population Suicides": 404,
+    "General Population Rate per 100000": 27.7
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Colorado",
+    "Age Group": "55-74",
+    "Veteran Suicides": 68,
+    "Veteran Suicide Rate per 100000": 39.8,
+    "General Population Suicides": 290,
+    "General Population Rate per 100000": 25
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Colorado",
+    "Age Group": "75+",
+    "Veteran Suicides": 22,
+    "Veteran Suicide Rate per 100000": 29.3,
+    "General Population Suicides": 72,
+    "General Population Rate per 100000": 25.5
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Hawaii",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 66,
+    "General Population Rate per 100000": 21.6
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Hawaii",
+    "Age Group": "35-54",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 55,
+    "General Population Rate per 100000": 15.8
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Hawaii",
+    "Age Group": "55-74",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": "40-50",
+    "General Population Rate per 100000": "--"
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Hawaii",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": "<10",
+    "General Population Rate per 100000": "--"
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Idaho",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 75,
+    "General Population Rate per 100000": 19.9
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Idaho",
+    "Age Group": "35-54",
+    "Veteran Suicides": 18,
+    "Veteran Suicide Rate per 100000": 60,
+    "General Population Suicides": 146,
+    "General Population Rate per 100000": 36.2
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Idaho",
+    "Age Group": "55-74",
+    "Veteran Suicides": 24,
+    "Veteran Suicide Rate per 100000": 45.3,
+    "General Population Suicides": 91,
+    "General Population Rate per 100000": 25.2
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Idaho",
+    "Age Group": "75+",
+    "Veteran Suicides": "10-20",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 23,
+    "General Population Rate per 100000": 22.8
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Montana",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 89,
+    "General Population Rate per 100000": 39.5
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Montana",
+    "Age Group": "35-54",
+    "Veteran Suicides": 13,
+    "Veteran Suicide Rate per 100000": 59.1,
+    "General Population Suicides": 82,
+    "General Population Rate per 100000": 33.1
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Montana",
+    "Age Group": "55-74",
+    "Veteran Suicides": 21,
+    "Veteran Suicide Rate per 100000": 51.2,
+    "General Population Suicides": 64,
+    "General Population Rate per 100000": 24.3
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Montana",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 15,
+    "General Population Rate per 100000": 20.2
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Nevada",
+    "Age Group": "18-34",
+    "Veteran Suicides": 11,
+    "Veteran Suicide Rate per 100000": 52.4,
+    "General Population Suicides": 143,
+    "General Population Rate per 100000": 21.3
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Nevada",
+    "Age Group": "35-54",
+    "Veteran Suicides": 23,
+    "Veteran Suicide Rate per 100000": 41.8,
+    "General Population Suicides": 223,
+    "General Population Rate per 100000": 28.6
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Nevada",
+    "Age Group": "55-74",
+    "Veteran Suicides": 39,
+    "Veteran Suicide Rate per 100000": 38.6,
+    "General Population Suicides": 183,
+    "General Population Rate per 100000": 28.6
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Nevada",
+    "Age Group": "75+",
+    "Veteran Suicides": 34,
+    "Veteran Suicide Rate per 100000": 75.6,
+    "General Population Suicides": 82,
+    "General Population Rate per 100000": 49.4
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "New Mexico",
+    "Age Group": "18-34",
+    "Veteran Suicides": 11,
+    "Veteran Suicide Rate per 100000": 78.6,
+    "General Population Suicides": 129,
+    "General Population Rate per 100000": 27.5
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "New Mexico",
+    "Age Group": "35-54",
+    "Veteran Suicides": 17,
+    "Veteran Suicide Rate per 100000": 44.7,
+    "General Population Suicides": 160,
+    "General Population Rate per 100000": 32.2
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "New Mexico",
+    "Age Group": "55-74",
+    "Veteran Suicides": 27,
+    "Veteran Suicide Rate per 100000": 37,
+    "General Population Suicides": 127,
+    "General Population Rate per 100000": 26.7
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "New Mexico",
+    "Age Group": "75+",
+    "Veteran Suicides": 16,
+    "Veteran Suicide Rate per 100000": 44.4,
+    "General Population Suicides": 40,
+    "General Population Rate per 100000": 28.7
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Oregon",
+    "Age Group": "18-34",
+    "Veteran Suicides": 14,
+    "Veteran Suicide Rate per 100000": 56,
+    "General Population Suicides": 165,
+    "General Population Rate per 100000": 17.6
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Oregon",
+    "Age Group": "35-54",
+    "Veteran Suicides": 30,
+    "Veteran Suicide Rate per 100000": 44.8,
+    "General Population Suicides": 264,
+    "General Population Rate per 100000": 25.2
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Oregon",
+    "Age Group": "55-74",
+    "Veteran Suicides": 50,
+    "Veteran Suicide Rate per 100000": 34.5,
+    "General Population Suicides": 231,
+    "General Population Rate per 100000": 24
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Oregon",
+    "Age Group": "75+",
+    "Veteran Suicides": 28,
+    "Veteran Suicide Rate per 100000": 38.4,
+    "General Population Suicides": 84,
+    "General Population Rate per 100000": 30.9
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Utah",
+    "Age Group": "18-34",
+    "Veteran Suicides": 10,
+    "Veteran Suicide Rate per 100000": 62.5,
+    "General Population Suicides": 201,
+    "General Population Rate per 100000": 25.4
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Utah",
+    "Age Group": "35-54",
+    "Veteran Suicides": 18,
+    "Veteran Suicide Rate per 100000": 52.9,
+    "General Population Suicides": 239,
+    "General Population Rate per 100000": 33.2
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Utah",
+    "Age Group": "55-74",
+    "Veteran Suicides": 17,
+    "Veteran Suicide Rate per 100000": 31.5,
+    "General Population Suicides": 116,
+    "General Population Rate per 100000": 24
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Utah",
+    "Age Group": "75+",
+    "Veteran Suicides": 14,
+    "Veteran Suicide Rate per 100000": 43.8,
+    "General Population Suicides": 32,
+    "General Population Rate per 100000": 24.8
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Washington",
+    "Age Group": "18-34",
+    "Veteran Suicides": 22,
+    "Veteran Suicide Rate per 100000": 38.6,
+    "General Population Suicides": 319,
+    "General Population Rate per 100000": 18.8
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Washington",
+    "Age Group": "35-54",
+    "Veteran Suicides": 48,
+    "Veteran Suicide Rate per 100000": 32.4,
+    "General Population Suicides": 358,
+    "General Population Rate per 100000": 19
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Washington",
+    "Age Group": "55-74",
+    "Veteran Suicides": 81,
+    "Veteran Suicide Rate per 100000": 31.9,
+    "General Population Suicides": 345,
+    "General Population Rate per 100000": 21.5
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Washington",
+    "Age Group": "75+",
+    "Veteran Suicides": 22,
+    "Veteran Suicide Rate per 100000": 20.4,
+    "General Population Suicides": 82,
+    "General Population Rate per 100000": 19.3
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Wyoming",
+    "Age Group": "18-34",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 32,
+    "General Population Rate per 100000": 24.1
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Wyoming",
+    "Age Group": "35-54",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 56,
+    "General Population Rate per 100000": 39.8
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Wyoming",
+    "Age Group": "55-74",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 33,
+    "General Population Rate per 100000": 24.5
+
+  },
+  {
+    "Geographic Region": "West",
+    "State of Death": "Wyoming",
+    "Age Group": "75+",
+    "Veteran Suicides": "<10",
+    "Veteran Suicide Rate per 100000": "--",
+    "General Population Suicides": 16,
+    "General Population Rate per 100000": 47.1
+
+  }
+]
+}

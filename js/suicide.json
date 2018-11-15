@@ -1,0 +1,34 @@
+[
+  {
+    "Geographic Region": "Total U.S.",
+    "Age Group": "18-34",
+    "Veteran Suicides": 893,
+    "Veteran Suicide Rate per 100000": 45,
+    "General Population Suicides": 11997,
+    "General Population Rate per 100000": 16.1
+  },
+  {
+    "Geographic Region": "Total U.S.",
+    "Age Group": "35-54",
+    "Veteran Suicides": 1648,
+    "Veteran Suicide Rate per 100000": 33.1,
+    "General Population Suicides": 15467,
+    "General Population Rate per 100000": 18.6
+  },
+  {
+    "Geographic Region": "Total U.S.",
+    "Age Group": "55-74",
+    "Veteran Suicides": 2259,
+    "Veteran Suicide Rate per 100000": 25.9,
+    "General Population Suicides": 12162,
+    "General Population Rate per 100000": 17.3
+  },
+  {
+    "Geographic Region": "Total U.S.",
+    "Age Group": "75+",
+    "Veteran Suicides": 1274,
+    "Veteran Suicide Rate per 100000": 28.3,
+    "General Population Suicides": 3801,
+    "General Population Rate per 100000": 18.5
+  }
+]
